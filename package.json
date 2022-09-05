@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-var-radius",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Tailwind CSS plugin for utilising css variables for border radius",
   "main": "src/index.js",
   "license": "MIT",
